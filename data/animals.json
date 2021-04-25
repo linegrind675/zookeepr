@@ -144,6 +144,22 @@
         "hungry"
       ],
       "id": "14"
+    },
+    {
+      "name": "Musty",
+      "species": "Chameleon",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "15"
+    },
+    {
+      "name": "Musty",
+      "species": "Anthropod",
+      "diet": "folivore",
+      "personalityTraits": [],
+      "id": "16"
     }
   ]
 }
