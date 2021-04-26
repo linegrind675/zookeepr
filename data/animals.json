@@ -160,6 +160,15 @@
       "diet": "folivore",
       "personalityTraits": [],
       "id": "16"
+    },
+    {
+      "name": "Randy",
+      "species": "Tiger",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "17"
     }
   ]
 }

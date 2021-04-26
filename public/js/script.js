@@ -53,7 +53,7 @@ const handleZookeeperFormSubmit = event => {
 
   const name = $zookeeperForm.querySelector('[name="zookeeper-name"]').value;
   const age = parseInt($zookeeperForm.querySelector('[name="age"]').value);
-  const favoriteAnimal = $zookeeperform.querySelector('[name="favorite-animal"]').value;
+  const favoriteAnimal = $zookeeperForm.querySelector('[name="favorite-animal"]').value;
 
   const zookeeperObj = { name, age, favoriteAnimal };
   console.log(zookeeperObj);

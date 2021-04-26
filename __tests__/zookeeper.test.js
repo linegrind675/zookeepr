@@ -67,7 +67,7 @@ test("validates age", () => {
     const invalidZookeeper = {
         id: "3",
         name: "Isabella",
-        age: 67,
+        age: '67',
         favoriteAnimal: "bear",
     };
 
